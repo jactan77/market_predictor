@@ -1,0 +1,101 @@
+UserID,Age,Gender,Country,Annual_Income,Preferred_Music,Preferred_Movie_Genre,Preferred_Activity,Spending_Habits,Tech_Savvy,Time_Spent_Online,Operating_System,Has_Used_macOS,Owns_MacBook,Device_Brand_Loyalty
+1,25,M,USA,50000,Rock,Action,Sports,Frugal,Low,2.0,Windows,Yes,Yes,Apple
+2,25,F,UK,55555,Pop,Comedy,Reading,Moderate,Medium,3.0,macOS,No,No,Samsung
+3,25,M,Germany,61111,Jazz,Drama,Gaming,Extravagant,High,4.0,Linux,Yes,Yes,Dell
+4,26,F,France,66666,Classical,Horror,Traveling,Frugal,Low,5.0,ChromeOS,No,No,HP
+5,26,M,Poland,72222,Hip Hop,Sci-Fi,Cooking,Moderate,Medium,6.0,Windows,Yes,Yes,Lenovo
+6,27,F,India,77777,Rock,Romantic,Music,Extravagant,High,7.0,macOS,No,No,Other
+7,27,M,USA,83333,Pop,Action,Sports,Frugal,Low,8.0,Linux,Yes,Yes,Apple
+8,27,F,UK,88888,Jazz,Comedy,Reading,Moderate,Medium,2.0,ChromeOS,No,No,Samsung
+9,28,M,Germany,94444,Classical,Drama,Gaming,Extravagant,High,3.0,Windows,Yes,Yes,Dell
+10,28,F,France,100000,Hip Hop,Horror,Traveling,Frugal,Low,4.0,macOS,No,No,HP
+11,29,M,Poland,50000,Rock,Sci-Fi,Cooking,Moderate,Medium,5.0,Linux,Yes,Yes,Lenovo
+12,29,F,India,55555,Pop,Romantic,Music,Extravagant,High,6.0,ChromeOS,No,No,Other
+13,29,M,USA,61111,Jazz,Action,Sports,Frugal,Low,7.0,Windows,Yes,Yes,Apple
+14,30,F,UK,66666,Classical,Comedy,Reading,Moderate,Medium,8.0,macOS,No,No,Samsung
+15,30,M,Germany,72222,Hip Hop,Drama,Gaming,Extravagant,High,2.0,Linux,Yes,Yes,Dell
+16,31,F,France,77777,Rock,Horror,Traveling,Frugal,Low,3.0,ChromeOS,No,No,HP
+17,31,M,Poland,83333,Pop,Sci-Fi,Cooking,Moderate,Medium,4.0,Windows,Yes,Yes,Lenovo
+18,31,F,India,88888,Jazz,Romantic,Music,Extravagant,High,5.0,macOS,No,No,Other
+19,32,M,USA,94444,Classical,Action,Sports,Frugal,Low,6.0,Linux,Yes,Yes,Apple
+20,32,F,UK,100000,Hip Hop,Comedy,Reading,Moderate,Medium,7.0,ChromeOS,No,No,Samsung
+21,33,M,Germany,50000,Rock,Drama,Gaming,Extravagant,High,8.0,Windows,Yes,Yes,Dell
+22,33,F,France,55555,Pop,Horror,Traveling,Frugal,Low,2.0,macOS,No,No,HP
+23,33,M,Poland,61111,Jazz,Sci-Fi,Cooking,Moderate,Medium,3.0,Linux,Yes,Yes,Lenovo
+24,34,F,India,66666,Classical,Romantic,Music,Extravagant,High,4.0,ChromeOS,No,No,Other
+25,34,M,USA,72222,Hip Hop,Action,Sports,Frugal,Low,5.0,Windows,Yes,Yes,Apple
+26,35,F,UK,77777,Rock,Comedy,Reading,Moderate,Medium,6.0,macOS,No,No,Samsung
+27,35,M,Germany,83333,Pop,Drama,Gaming,Extravagant,High,7.0,Linux,Yes,Yes,Dell
+28,35,F,France,88888,Jazz,Horror,Traveling,Frugal,Low,8.0,ChromeOS,No,No,HP
+29,36,M,Poland,94444,Classical,Sci-Fi,Cooking,Moderate,Medium,2.0,Windows,Yes,Yes,Lenovo
+30,36,F,India,100000,Hip Hop,Romantic,Music,Extravagant,High,3.0,macOS,No,No,Other
+31,37,M,USA,50000,Rock,Action,Sports,Frugal,Low,4.0,Linux,Yes,Yes,Apple
+32,37,F,UK,55555,Pop,Comedy,Reading,Moderate,Medium,5.0,ChromeOS,No,No,Samsung
+33,37,M,Germany,61111,Jazz,Drama,Gaming,Extravagant,High,6.0,Windows,Yes,Yes,Dell
+34,38,F,France,66666,Classical,Horror,Traveling,Frugal,Low,7.0,macOS,No,No,HP
+35,38,M,Poland,72222,Hip Hop,Sci-Fi,Cooking,Moderate,Medium,8.0,Linux,Yes,Yes,Lenovo
+36,39,F,India,77777,Rock,Romantic,Music,Extravagant,High,2.0,ChromeOS,No,No,Other
+37,39,M,USA,83333,Pop,Action,Sports,Frugal,Low,3.0,Windows,Yes,Yes,Apple
+38,39,F,UK,88888,Jazz,Comedy,Reading,Moderate,Medium,4.0,macOS,No,No,Samsung
+39,40,M,Germany,94444,Classical,Drama,Gaming,Extravagant,High,5.0,Linux,Yes,Yes,Dell
+40,40,F,France,100000,Hip Hop,Horror,Traveling,Frugal,Low,6.0,ChromeOS,No,No,HP
+41,41,M,Poland,50000,Rock,Sci-Fi,Cooking,Moderate,Medium,7.0,Windows,Yes,Yes,Lenovo
+42,41,F,India,55555,Pop,Romantic,Music,Extravagant,High,8.0,macOS,No,No,Other
+43,41,M,USA,61111,Jazz,Action,Sports,Frugal,Low,2.0,Linux,Yes,Yes,Apple
+44,42,F,UK,66666,Classical,Comedy,Reading,Moderate,Medium,3.0,ChromeOS,No,No,Samsung
+45,42,M,Germany,72222,Hip Hop,Drama,Gaming,Extravagant,High,4.0,Windows,Yes,Yes,Dell
+46,43,F,France,77777,Rock,Horror,Traveling,Frugal,Low,5.0,macOS,No,No,HP
+47,43,M,Poland,83333,Pop,Sci-Fi,Cooking,Moderate,Medium,6.0,Linux,Yes,Yes,Lenovo
+48,43,F,India,88888,Jazz,Romantic,Music,Extravagant,High,7.0,ChromeOS,No,No,Other
+49,44,M,USA,94444,Classical,Action,Sports,Frugal,Low,8.0,Windows,Yes,Yes,Apple
+50,44,F,UK,100000,Hip Hop,Comedy,Reading,Moderate,Medium,2.0,macOS,No,No,Samsung
+51,45,M,Germany,50000,Rock,Drama,Gaming,Extravagant,High,3.0,Linux,Yes,Yes,Dell
+52,45,F,France,55555,Pop,Horror,Traveling,Frugal,Low,4.0,ChromeOS,No,No,HP
+53,46,M,Poland,61111,Jazz,Sci-Fi,Cooking,Moderate,Medium,5.0,Windows,Yes,Yes,Lenovo
+54,46,F,India,66666,Classical,Romantic,Music,Extravagant,High,6.0,macOS,No,No,Other
+55,46,M,USA,72222,Hip Hop,Action,Sports,Frugal,Low,7.0,Linux,Yes,Yes,Apple
+56,47,F,UK,77777,Rock,Comedy,Reading,Moderate,Medium,8.0,ChromeOS,No,No,Samsung
+57,47,M,Germany,83333,Pop,Drama,Gaming,Extravagant,High,2.0,Windows,Yes,Yes,Dell
+58,48,F,France,88888,Jazz,Horror,Traveling,Frugal,Low,3.0,macOS,No,No,HP
+59,48,M,Poland,94444,Classical,Sci-Fi,Cooking,Moderate,Medium,4.0,Linux,Yes,Yes,Lenovo
+60,48,F,India,100000,Hip Hop,Romantic,Music,Extravagant,High,5.0,ChromeOS,No,No,Other
+61,49,M,USA,50000,Rock,Action,Sports,Frugal,Low,6.0,Windows,Yes,Yes,Apple
+62,49,F,UK,55555,Pop,Comedy,Reading,Moderate,Medium,7.0,macOS,No,No,Samsung
+63,50,M,Germany,61111,Jazz,Drama,Gaming,Extravagant,High,8.0,Linux,Yes,Yes,Dell
+64,50,F,France,66666,Classical,Horror,Traveling,Frugal,Low,2.0,ChromeOS,No,No,HP
+65,50,M,Poland,72222,Hip Hop,Sci-Fi,Cooking,Moderate,Medium,3.0,Windows,Yes,Yes,Lenovo
+66,51,F,India,77777,Rock,Romantic,Music,Extravagant,High,4.0,macOS,No,No,Other
+67,51,M,USA,83333,Pop,Action,Sports,Frugal,Low,5.0,Linux,Yes,Yes,Apple
+68,52,F,UK,88888,Jazz,Comedy,Reading,Moderate,Medium,6.0,ChromeOS,No,No,Samsung
+69,52,M,Germany,94444,Classical,Drama,Gaming,Extravagant,High,7.0,Windows,Yes,Yes,Dell
+70,52,F,France,100000,Hip Hop,Horror,Traveling,Frugal,Low,8.0,macOS,No,No,HP
+71,53,M,Poland,50000,Rock,Sci-Fi,Cooking,Moderate,Medium,2.0,Linux,Yes,Yes,Lenovo
+72,53,F,India,55555,Pop,Romantic,Music,Extravagant,High,3.0,ChromeOS,No,No,Other
+73,54,M,USA,61111,Jazz,Action,Sports,Frugal,Low,4.0,Windows,Yes,Yes,Apple
+74,54,F,UK,66666,Classical,Comedy,Reading,Moderate,Medium,5.0,macOS,No,No,Samsung
+75,54,M,Germany,72222,Hip Hop,Drama,Gaming,Extravagant,High,6.0,Linux,Yes,Yes,Dell
+76,55,F,France,77777,Rock,Horror,Traveling,Frugal,Low,7.0,ChromeOS,No,No,HP
+77,55,M,Poland,83333,Pop,Sci-Fi,Cooking,Moderate,Medium,8.0,Windows,Yes,Yes,Lenovo
+78,56,F,India,88888,Jazz,Romantic,Music,Extravagant,High,2.0,macOS,No,No,Other
+79,56,M,USA,94444,Classical,Action,Sports,Frugal,Low,3.0,Linux,Yes,Yes,Apple
+80,56,F,UK,100000,Hip Hop,Comedy,Reading,Moderate,Medium,4.0,ChromeOS,No,No,Samsung
+81,57,M,Germany,50000,Rock,Drama,Gaming,Extravagant,High,5.0,Windows,Yes,Yes,Dell
+82,57,F,France,55555,Pop,Horror,Traveling,Frugal,Low,6.0,macOS,No,No,HP
+83,58,M,Poland,61111,Jazz,Sci-Fi,Cooking,Moderate,Medium,7.0,Linux,Yes,Yes,Lenovo
+84,58,F,India,66666,Classical,Romantic,Music,Extravagant,High,8.0,ChromeOS,No,No,Other
+85,58,M,USA,72222,Hip Hop,Action,Sports,Frugal,Low,2.0,Windows,Yes,Yes,Apple
+86,59,F,UK,77777,Rock,Comedy,Reading,Moderate,Medium,3.0,macOS,No,No,Samsung
+87,59,M,Germany,83333,Pop,Drama,Gaming,Extravagant,High,4.0,Linux,Yes,Yes,Dell
+88,60,F,France,88888,Jazz,Horror,Traveling,Frugal,Low,5.0,ChromeOS,No,No,HP
+89,60,M,Poland,94444,Classical,Sci-Fi,Cooking,Moderate,Medium,6.0,Windows,Yes,Yes,Lenovo
+90,60,F,India,100000,Hip Hop,Romantic,Music,Extravagant,High,7.0,macOS,No,No,Other
+91,61,M,USA,50000,Rock,Action,Sports,Frugal,Low,8.0,Linux,Yes,Yes,Apple
+92,61,F,UK,55555,Pop,Comedy,Reading,Moderate,Medium,2.0,ChromeOS,No,No,Samsung
+93,62,M,Germany,61111,Jazz,Drama,Gaming,Extravagant,High,3.0,Windows,Yes,Yes,Dell
+94,62,F,France,66666,Classical,Horror,Traveling,Frugal,Low,4.0,macOS,No,No,HP
+95,62,M,Poland,72222,Hip Hop,Sci-Fi,Cooking,Moderate,Medium,5.0,Linux,Yes,Yes,Lenovo
+96,63,F,India,77777,Rock,Romantic,Music,Extravagant,High,6.0,ChromeOS,No,No,Other
+97,63,M,USA,83333,Pop,Action,Sports,Frugal,Low,7.0,Windows,Yes,Yes,Apple
+98,64,F,UK,88888,Jazz,Comedy,Reading,Moderate,Medium,8.0,macOS,No,No,Samsung
+99,64,M,Germany,94444,Classical,Drama,Gaming,Extravagant,High,2.0,Linux,Yes,Yes,Dell
+100,65,F,France,100000,Hip Hop,Horror,Traveling,Frugal,Low,3.0,ChromeOS,No,No,HP
