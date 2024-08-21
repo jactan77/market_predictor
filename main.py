@@ -4,17 +4,21 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 import matplotlib.pyplot as plt
+import numpy as np
+data = pd.read_csv('encoded_100_users_data.csv')
 
-data = pd.read_csv('fixed_user_preferences.csv')
-print("Loading dataset {}".format(data.keys()))
+# Separate features (X) and target (y)a
+X_train, X_test, y_train, y_test = train_test_split(
+    data.drop('Owns_MacBook', axis=1), data['Owns_MacBook'], random_state=0
+)
+knn = KNeighborsClassifier(n_neighbors=1)
+knn.fit(X_train, y_train)
+X_new = np.array([[65,0,0,1,0]])
+predictions = knn.predict(X_new)
+print('X_new shape: {}'.format(X_new.shape))
+print('predictions: {}'.format(
+    [predictions][0]
+))
+y_pred = knn.predict(X_test)
+print("Score: {:.2f}".format(knn.score(X_test,y_test)))
 
-
-fig, ax = plt.subplots()
-
-
-
-X = data.drop('UserID', axis = 1)
-y = data['Owns_MacBook']
-
-ax.scatter(X['Annual_Income'],y)
-plt.show()
