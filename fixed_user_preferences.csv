@@ -1,101 +1,101 @@
 UserID,Age,Gender,Country,Annual_Income,Preferred_Music,Preferred_Movie_Genre,Preferred_Activity,Spending_Habits,Tech_Savvy,Time_Spent_Online,Operating_System,Has_Used_macOS,Owns_MacBook,Device_Brand_Loyalty
-1,25,M,USA,50000,Rock,Action,Sports,Frugal,Low,2.0,Windows,Yes,Yes,Apple
-2,25,F,UK,55555,Pop,Comedy,Reading,Moderate,Medium,3.0,macOS,No,No,Samsung
-3,25,M,Germany,61111,Jazz,Drama,Gaming,Extravagant,High,4.0,Linux,Yes,Yes,Dell
-4,26,F,France,66666,Classical,Horror,Traveling,Frugal,Low,5.0,ChromeOS,No,No,HP
-5,26,M,Poland,72222,Hip Hop,Sci-Fi,Cooking,Moderate,Medium,6.0,Windows,Yes,Yes,Lenovo
-6,27,F,India,77777,Rock,Romantic,Music,Extravagant,High,7.0,macOS,No,No,Other
-7,27,M,USA,83333,Pop,Action,Sports,Frugal,Low,8.0,Linux,Yes,Yes,Apple
-8,27,F,UK,88888,Jazz,Comedy,Reading,Moderate,Medium,2.0,ChromeOS,No,No,Samsung
-9,28,M,Germany,94444,Classical,Drama,Gaming,Extravagant,High,3.0,Windows,Yes,Yes,Dell
-10,28,F,France,100000,Hip Hop,Horror,Traveling,Frugal,Low,4.0,macOS,No,No,HP
-11,29,M,Poland,50000,Rock,Sci-Fi,Cooking,Moderate,Medium,5.0,Linux,Yes,Yes,Lenovo
-12,29,F,India,55555,Pop,Romantic,Music,Extravagant,High,6.0,ChromeOS,No,No,Other
-13,29,M,USA,61111,Jazz,Action,Sports,Frugal,Low,7.0,Windows,Yes,Yes,Apple
-14,30,F,UK,66666,Classical,Comedy,Reading,Moderate,Medium,8.0,macOS,No,No,Samsung
-15,30,M,Germany,72222,Hip Hop,Drama,Gaming,Extravagant,High,2.0,Linux,Yes,Yes,Dell
-16,31,F,France,77777,Rock,Horror,Traveling,Frugal,Low,3.0,ChromeOS,No,No,HP
-17,31,M,Poland,83333,Pop,Sci-Fi,Cooking,Moderate,Medium,4.0,Windows,Yes,Yes,Lenovo
-18,31,F,India,88888,Jazz,Romantic,Music,Extravagant,High,5.0,macOS,No,No,Other
-19,32,M,USA,94444,Classical,Action,Sports,Frugal,Low,6.0,Linux,Yes,Yes,Apple
-20,32,F,UK,100000,Hip Hop,Comedy,Reading,Moderate,Medium,7.0,ChromeOS,No,No,Samsung
-21,33,M,Germany,50000,Rock,Drama,Gaming,Extravagant,High,8.0,Windows,Yes,Yes,Dell
-22,33,F,France,55555,Pop,Horror,Traveling,Frugal,Low,2.0,macOS,No,No,HP
-23,33,M,Poland,61111,Jazz,Sci-Fi,Cooking,Moderate,Medium,3.0,Linux,Yes,Yes,Lenovo
-24,34,F,India,66666,Classical,Romantic,Music,Extravagant,High,4.0,ChromeOS,No,No,Other
-25,34,M,USA,72222,Hip Hop,Action,Sports,Frugal,Low,5.0,Windows,Yes,Yes,Apple
-26,35,F,UK,77777,Rock,Comedy,Reading,Moderate,Medium,6.0,macOS,No,No,Samsung
-27,35,M,Germany,83333,Pop,Drama,Gaming,Extravagant,High,7.0,Linux,Yes,Yes,Dell
-28,35,F,France,88888,Jazz,Horror,Traveling,Frugal,Low,8.0,ChromeOS,No,No,HP
-29,36,M,Poland,94444,Classical,Sci-Fi,Cooking,Moderate,Medium,2.0,Windows,Yes,Yes,Lenovo
-30,36,F,India,100000,Hip Hop,Romantic,Music,Extravagant,High,3.0,macOS,No,No,Other
-31,37,M,USA,50000,Rock,Action,Sports,Frugal,Low,4.0,Linux,Yes,Yes,Apple
-32,37,F,UK,55555,Pop,Comedy,Reading,Moderate,Medium,5.0,ChromeOS,No,No,Samsung
-33,37,M,Germany,61111,Jazz,Drama,Gaming,Extravagant,High,6.0,Windows,Yes,Yes,Dell
-34,38,F,France,66666,Classical,Horror,Traveling,Frugal,Low,7.0,macOS,No,No,HP
-35,38,M,Poland,72222,Hip Hop,Sci-Fi,Cooking,Moderate,Medium,8.0,Linux,Yes,Yes,Lenovo
-36,39,F,India,77777,Rock,Romantic,Music,Extravagant,High,2.0,ChromeOS,No,No,Other
-37,39,M,USA,83333,Pop,Action,Sports,Frugal,Low,3.0,Windows,Yes,Yes,Apple
-38,39,F,UK,88888,Jazz,Comedy,Reading,Moderate,Medium,4.0,macOS,No,No,Samsung
-39,40,M,Germany,94444,Classical,Drama,Gaming,Extravagant,High,5.0,Linux,Yes,Yes,Dell
-40,40,F,France,100000,Hip Hop,Horror,Traveling,Frugal,Low,6.0,ChromeOS,No,No,HP
-41,41,M,Poland,50000,Rock,Sci-Fi,Cooking,Moderate,Medium,7.0,Windows,Yes,Yes,Lenovo
-42,41,F,India,55555,Pop,Romantic,Music,Extravagant,High,8.0,macOS,No,No,Other
-43,41,M,USA,61111,Jazz,Action,Sports,Frugal,Low,2.0,Linux,Yes,Yes,Apple
-44,42,F,UK,66666,Classical,Comedy,Reading,Moderate,Medium,3.0,ChromeOS,No,No,Samsung
-45,42,M,Germany,72222,Hip Hop,Drama,Gaming,Extravagant,High,4.0,Windows,Yes,Yes,Dell
-46,43,F,France,77777,Rock,Horror,Traveling,Frugal,Low,5.0,macOS,No,No,HP
-47,43,M,Poland,83333,Pop,Sci-Fi,Cooking,Moderate,Medium,6.0,Linux,Yes,Yes,Lenovo
-48,43,F,India,88888,Jazz,Romantic,Music,Extravagant,High,7.0,ChromeOS,No,No,Other
-49,44,M,USA,94444,Classical,Action,Sports,Frugal,Low,8.0,Windows,Yes,Yes,Apple
-50,44,F,UK,100000,Hip Hop,Comedy,Reading,Moderate,Medium,2.0,macOS,No,No,Samsung
-51,45,M,Germany,50000,Rock,Drama,Gaming,Extravagant,High,3.0,Linux,Yes,Yes,Dell
-52,45,F,France,55555,Pop,Horror,Traveling,Frugal,Low,4.0,ChromeOS,No,No,HP
-53,46,M,Poland,61111,Jazz,Sci-Fi,Cooking,Moderate,Medium,5.0,Windows,Yes,Yes,Lenovo
-54,46,F,India,66666,Classical,Romantic,Music,Extravagant,High,6.0,macOS,No,No,Other
-55,46,M,USA,72222,Hip Hop,Action,Sports,Frugal,Low,7.0,Linux,Yes,Yes,Apple
-56,47,F,UK,77777,Rock,Comedy,Reading,Moderate,Medium,8.0,ChromeOS,No,No,Samsung
-57,47,M,Germany,83333,Pop,Drama,Gaming,Extravagant,High,2.0,Windows,Yes,Yes,Dell
-58,48,F,France,88888,Jazz,Horror,Traveling,Frugal,Low,3.0,macOS,No,No,HP
-59,48,M,Poland,94444,Classical,Sci-Fi,Cooking,Moderate,Medium,4.0,Linux,Yes,Yes,Lenovo
-60,48,F,India,100000,Hip Hop,Romantic,Music,Extravagant,High,5.0,ChromeOS,No,No,Other
-61,49,M,USA,50000,Rock,Action,Sports,Frugal,Low,6.0,Windows,Yes,Yes,Apple
-62,49,F,UK,55555,Pop,Comedy,Reading,Moderate,Medium,7.0,macOS,No,No,Samsung
-63,50,M,Germany,61111,Jazz,Drama,Gaming,Extravagant,High,8.0,Linux,Yes,Yes,Dell
-64,50,F,France,66666,Classical,Horror,Traveling,Frugal,Low,2.0,ChromeOS,No,No,HP
-65,50,M,Poland,72222,Hip Hop,Sci-Fi,Cooking,Moderate,Medium,3.0,Windows,Yes,Yes,Lenovo
-66,51,F,India,77777,Rock,Romantic,Music,Extravagant,High,4.0,macOS,No,No,Other
-67,51,M,USA,83333,Pop,Action,Sports,Frugal,Low,5.0,Linux,Yes,Yes,Apple
-68,52,F,UK,88888,Jazz,Comedy,Reading,Moderate,Medium,6.0,ChromeOS,No,No,Samsung
-69,52,M,Germany,94444,Classical,Drama,Gaming,Extravagant,High,7.0,Windows,Yes,Yes,Dell
-70,52,F,France,100000,Hip Hop,Horror,Traveling,Frugal,Low,8.0,macOS,No,No,HP
-71,53,M,Poland,50000,Rock,Sci-Fi,Cooking,Moderate,Medium,2.0,Linux,Yes,Yes,Lenovo
-72,53,F,India,55555,Pop,Romantic,Music,Extravagant,High,3.0,ChromeOS,No,No,Other
-73,54,M,USA,61111,Jazz,Action,Sports,Frugal,Low,4.0,Windows,Yes,Yes,Apple
-74,54,F,UK,66666,Classical,Comedy,Reading,Moderate,Medium,5.0,macOS,No,No,Samsung
-75,54,M,Germany,72222,Hip Hop,Drama,Gaming,Extravagant,High,6.0,Linux,Yes,Yes,Dell
-76,55,F,France,77777,Rock,Horror,Traveling,Frugal,Low,7.0,ChromeOS,No,No,HP
-77,55,M,Poland,83333,Pop,Sci-Fi,Cooking,Moderate,Medium,8.0,Windows,Yes,Yes,Lenovo
-78,56,F,India,88888,Jazz,Romantic,Music,Extravagant,High,2.0,macOS,No,No,Other
-79,56,M,USA,94444,Classical,Action,Sports,Frugal,Low,3.0,Linux,Yes,Yes,Apple
-80,56,F,UK,100000,Hip Hop,Comedy,Reading,Moderate,Medium,4.0,ChromeOS,No,No,Samsung
-81,57,M,Germany,50000,Rock,Drama,Gaming,Extravagant,High,5.0,Windows,Yes,Yes,Dell
-82,57,F,France,55555,Pop,Horror,Traveling,Frugal,Low,6.0,macOS,No,No,HP
-83,58,M,Poland,61111,Jazz,Sci-Fi,Cooking,Moderate,Medium,7.0,Linux,Yes,Yes,Lenovo
-84,58,F,India,66666,Classical,Romantic,Music,Extravagant,High,8.0,ChromeOS,No,No,Other
-85,58,M,USA,72222,Hip Hop,Action,Sports,Frugal,Low,2.0,Windows,Yes,Yes,Apple
-86,59,F,UK,77777,Rock,Comedy,Reading,Moderate,Medium,3.0,macOS,No,No,Samsung
-87,59,M,Germany,83333,Pop,Drama,Gaming,Extravagant,High,4.0,Linux,Yes,Yes,Dell
-88,60,F,France,88888,Jazz,Horror,Traveling,Frugal,Low,5.0,ChromeOS,No,No,HP
-89,60,M,Poland,94444,Classical,Sci-Fi,Cooking,Moderate,Medium,6.0,Windows,Yes,Yes,Lenovo
-90,60,F,India,100000,Hip Hop,Romantic,Music,Extravagant,High,7.0,macOS,No,No,Other
-91,61,M,USA,50000,Rock,Action,Sports,Frugal,Low,8.0,Linux,Yes,Yes,Apple
-92,61,F,UK,55555,Pop,Comedy,Reading,Moderate,Medium,2.0,ChromeOS,No,No,Samsung
-93,62,M,Germany,61111,Jazz,Drama,Gaming,Extravagant,High,3.0,Windows,Yes,Yes,Dell
-94,62,F,France,66666,Classical,Horror,Traveling,Frugal,Low,4.0,macOS,No,No,HP
-95,62,M,Poland,72222,Hip Hop,Sci-Fi,Cooking,Moderate,Medium,5.0,Linux,Yes,Yes,Lenovo
-96,63,F,India,77777,Rock,Romantic,Music,Extravagant,High,6.0,ChromeOS,No,No,Other
-97,63,M,USA,83333,Pop,Action,Sports,Frugal,Low,7.0,Windows,Yes,Yes,Apple
-98,64,F,UK,88888,Jazz,Comedy,Reading,Moderate,Medium,8.0,macOS,No,No,Samsung
-99,64,M,Germany,94444,Classical,Drama,Gaming,Extravagant,High,2.0,Linux,Yes,Yes,Dell
-100,65,F,France,100000,Hip Hop,Horror,Traveling,Frugal,Low,3.0,ChromeOS,No,No,HP
+1,53,0,2,95469,2,3,2,0,0,4.4,3,0,1,1
+2,26,1,4,89303,3,1,4,1,2,5.0,0,0,1,0
+3,57,0,0,53693,1,4,4,0,0,5.6,3,1,0,0
+4,55,0,0,99108,3,2,3,1,1,3.1,0,1,1,0
+5,62,1,1,81094,3,2,2,0,1,5.4,0,1,1,4
+6,41,1,4,94087,1,3,3,2,1,3.1,0,1,1,0
+7,34,1,1,84140,2,3,3,2,1,4.5,0,1,1,3
+8,48,0,4,80151,0,1,4,2,2,7.4,2,1,1,3
+9,37,0,0,64952,3,2,0,0,2,4.0,3,1,0,2
+10,58,1,0,65871,2,1,1,0,2,3.3,3,0,1,1
+11,42,1,4,89057,2,2,0,1,1,4.3,3,1,1,3
+12,25,1,4,55884,0,4,4,1,0,2.2,2,0,1,4
+13,41,1,2,86243,4,0,0,0,2,6.4,0,1,1,3
+14,43,1,2,79859,0,4,3,2,2,3.3,3,0,1,0
+15,64,0,3,75804,4,2,4,0,2,2.1,3,1,0,0
+16,41,1,2,60710,4,3,1,2,1,5.1,3,0,1,0
+17,56,1,3,81963,4,0,1,2,2,7.8,0,0,1,1
+18,49,0,4,99202,2,0,4,1,0,5.7,2,1,0,1
+19,52,0,0,98982,2,1,2,1,1,4.7,3,0,0,3
+20,35,1,2,54977,1,3,0,2,2,8.0,2,1,0,1
+21,61,1,4,54661,1,4,2,1,0,5.3,0,0,1,0
+22,43,0,1,77091,0,1,4,2,2,5.7,1,0,1,3
+23,42,1,3,66339,4,3,2,2,2,7.4,1,0,0,1
+24,38,0,1,95624,0,3,1,1,2,3.7,1,1,0,1
+25,54,1,0,74361,1,0,4,2,1,7.6,2,1,1,1
+26,37,1,0,53457,0,0,0,0,1,6.8,2,1,1,1
+27,30,1,1,57217,0,3,3,1,1,7.5,3,1,1,3
+28,51,1,3,84108,2,2,4,1,0,3.2,0,0,1,1
+29,62,0,0,68173,4,3,1,0,1,5.7,1,1,1,0
+30,64,0,4,73165,2,2,0,2,1,2.4,3,1,0,2
+31,51,0,4,55877,4,4,2,2,2,4.6,0,0,1,2
+32,41,0,2,93167,0,1,3,0,1,5.3,2,0,1,2
+33,62,1,3,50022,1,1,2,1,1,6.2,3,0,1,0
+34,58,1,1,86366,2,4,2,0,1,6.6,3,1,0,0
+35,36,1,0,60568,0,4,4,2,0,8.0,2,0,1,3
+36,37,1,1,66717,1,2,4,1,2,5.9,3,0,0,3
+37,46,1,0,88425,0,3,3,1,0,6.1,2,1,1,3
+38,42,0,2,70389,3,3,3,1,0,2.5,1,1,1,0
+39,38,1,0,84270,2,2,4,0,1,4.4,2,1,1,4
+40,55,1,3,99757,4,0,2,1,2,6.3,2,0,0,3
+41,28,1,2,54169,1,0,0,1,2,5.8,1,1,0,1
+42,28,0,0,82781,0,2,0,2,2,3.8,2,1,1,1
+43,55,1,3,68725,2,4,1,1,2,7.3,2,1,1,2
+44,46,1,2,59259,1,0,1,0,1,3.2,1,1,0,1
+45,51,1,4,65057,0,1,4,0,2,4.0,3,1,1,0
+46,50,0,2,99242,0,4,0,2,2,3.7,3,1,1,1
+47,56,0,3,85971,0,2,3,1,1,5.8,0,0,1,3
+48,51,0,3,50704,1,3,1,0,2,5.3,3,1,1,3
+49,35,1,0,93301,0,0,1,1,0,3.1,3,1,1,4
+50,29,1,0,90630,0,2,4,1,2,2.9,2,1,1,0
+51,59,1,4,76168,3,0,0,0,1,2.4,3,1,0,0
+52,48,1,2,59088,1,3,2,1,0,4.1,3,0,0,2
+53,63,0,1,93654,0,0,4,1,0,6.5,1,0,0,4
+54,32,0,4,91250,0,1,2,1,0,6.3,0,1,1,1
+55,53,1,4,80946,4,3,4,2,1,4.2,2,1,0,4
+56,49,0,2,58413,1,2,0,1,0,4.8,2,1,0,2
+57,55,0,2,57127,0,1,3,2,0,6.6,2,1,1,1
+58,28,0,3,64877,3,0,3,0,1,2.2,3,1,1,4
+59,65,0,2,62062,2,0,0,1,2,4.5,1,1,0,2
+60,48,1,0,68222,4,0,4,1,1,7.2,0,0,0,3
+61,58,1,1,53719,4,4,4,0,2,7.6,1,1,1,3
+62,33,1,0,55626,1,3,4,1,1,4.3,0,1,0,0
+63,56,1,4,77230,0,1,2,0,1,2.3,1,0,1,2
+64,38,1,2,51334,0,1,3,0,1,2.7,2,0,0,0
+65,65,1,2,76080,0,2,0,0,1,3.0,0,1,0,2
+66,60,0,0,58440,0,2,3,1,1,7.2,3,1,1,1
+67,31,0,2,56602,2,0,1,2,2,6.9,0,1,1,1
+68,29,1,1,87851,4,4,3,0,0,6.3,1,1,0,0
+69,28,1,1,57457,1,0,0,0,1,2.2,3,0,0,0
+70,59,0,4,74836,4,1,0,2,1,7.9,2,1,0,3
+71,33,1,2,62092,4,0,0,0,2,7.0,2,1,0,3
+72,42,0,0,71623,0,0,4,1,0,5.7,2,0,0,0
+73,62,1,3,82639,2,1,0,1,1,5.4,0,1,0,4
+74,61,1,0,79628,4,1,0,1,2,5.5,0,1,0,0
+75,47,0,0,62484,4,1,1,2,0,3.3,1,1,1,1
+76,64,1,0,56104,1,1,1,2,0,2.9,0,0,1,1
+77,49,1,2,57028,1,3,0,0,0,2.4,0,0,1,2
+78,44,1,3,82954,2,2,2,1,2,4.0,3,1,0,0
+79,45,0,0,50609,0,0,2,0,2,2.5,3,1,0,0
+80,31,1,0,62591,1,4,0,2,0,5.8,3,1,0,0
+81,59,1,3,60608,3,0,4,1,1,6.1,3,1,0,1
+82,38,1,3,93209,3,1,0,2,0,4.4,3,0,0,4
+83,62,0,1,60550,2,4,1,0,2,2.4,1,1,1,4
+84,45,1,2,90845,3,4,2,1,2,7.2,0,1,0,1
+85,41,1,1,50702,2,4,4,1,1,4.8,0,0,0,1
+86,27,0,1,66984,4,2,4,0,1,6.1,1,1,1,3
+87,35,0,3,79431,3,3,1,0,0,7.8,2,1,1,4
+88,57,1,4,61386,1,2,3,1,2,4.8,3,0,1,2
+89,47,1,3,91522,2,2,2,1,1,8.0,0,0,0,0
+90,55,0,2,98619,2,3,1,2,2,4.5,3,0,1,3
+91,51,1,3,98751,1,3,4,0,2,4.4,2,0,0,4
+92,43,1,1,88854,1,4,1,0,2,4.6,2,0,1,3
+93,60,1,4,84499,4,3,3,2,2,2.5,3,1,0,1
+94,27,0,0,57714,4,0,4,1,1,2.7,3,0,0,2
+95,32,0,3,88993,1,4,4,0,1,7.8,2,0,0,1
+96,55,0,2,81797,3,1,2,2,0,5.3,1,1,0,1
+97,26,1,3,85899,1,1,3,2,0,5.6,0,0,1,1
+98,64,1,0,76754,0,4,2,0,1,3.6,1,1,1,2
+99,39,0,0,98056,2,4,3,0,1,8.0,0,0,1,4
+100,41,1,1,68195,2,0,0,0,1,5.6,1,1,1,4
